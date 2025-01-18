@@ -7,6 +7,7 @@ export PATH
 #	Description: Install the ShadowsocksR server
 #	Version: 2.0.38
 #	Author: chanpangfee
+
 #=================================================
 
 sh_ver="2.0.38"
